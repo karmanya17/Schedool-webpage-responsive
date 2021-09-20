@@ -34,6 +34,9 @@ a{
   color:#8b827f;
 
 }
+.customMargin{
+  margin-left:auto;
+}
 .customSize{
   height:500px;
   width:600px;
@@ -102,6 +105,9 @@ margin-left:25%;
 }
 .mediaMargin{
   margin-left:25%;
+}
+.customMargin{
+  margin-left:1rem;
 }
 }
 
